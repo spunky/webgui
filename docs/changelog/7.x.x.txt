@@ -1,4 +1,5 @@
 7.9.2
+ - added #11007: Added drag'n'drop sorting in Gallery Album Edit View
  - added #11412: Additional navigation in Gallery Photo View 
  - added: Sort Items switch to Syndicated Content asset
  - fixed #11493: i18n AssetCalendar::pageNextUrl monthVar
